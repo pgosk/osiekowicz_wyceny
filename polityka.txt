@@ -1,0 +1,13 @@
+Korzystam z narzędzia Google Analytics zapewnianego przez Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Działania w tym zakresie realizuję, opierając się na moim prawnie uzasadnionym interesie, polegającym na tworzeniu statystyk i ich analizie w celu optymalizacji mojej strony internetowej.
+
+Google Analytics w sposób automatyczny gromadzi informacje o Twoim korzystaniu z mojej strony. Zgromadzone w ten sposób informacje są najczęściej przekazywane do serwerów w Stanach Zjednoczonych i tam przechowywane.
+
+Z uwagi na aktywowaną przeze mnie anonimizację adresu IP, Twój adres IP jest skracany przed przekazaniem dalej. Tylko w wyjątkowych przypadkach pełny adres IP jest przekazywany do serwera Google w Stanach Zjednoczonych i dopiero tam skracany. Zanonimizowany adres IP przekazany przez Twoją przeglądarkę w ramach Google Analytics co do zasady nie jest łączony z innymi danymi Google.
+
+Z uwagi na to, że Google LLC posiada siedzibą w USA i wykorzystuje infrastrukturę techniczną znajdującą się w USA, przystąpił do programu EU-US-Privacy Shield w celu zapewnienia odpowiedniego poziomu ochrony danych osobowych wymaganego przez przepisu europejskie. W ramach umowy pomiędzy USA a Komisją Europejską ta ostatnia stwierdziła odpowiedni poziom ochrony danych w przypadku przedsiębiorstw posiadających certyfikat Privacy Shield.
+
+Możesz zapobiec rejestrowaniu zgromadzonych przez pliki cookies danych dotyczących korzystania przez Ciebie z mojej strony internetowej przez Google, jak również przetwarzaniu tych danych przez Google, instalując wtyczkę do przeglądarki znajdującą się pod następującym adresem: https://tools.google.com/dlpage/gaoptout.
+
+Jeżeli jesteś zainteresowany szczegółami związanymi z przetwarzaniem danych w ramach Google Analytics, zachęcam do zapoznania się z wyjaśnieniami przygotowanymi przez Google: https://support.google.com/analytics/answer/6004245.
+
+W ramach ustawień plików cookies dostępnych z poziomu mojej strony możesz zadecydować, czy wyrażasz zgodę na korzystanie w Twoim przypadku z Google Analytics, czy nie.
